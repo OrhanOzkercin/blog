@@ -10,7 +10,7 @@ function Header() {
   console.log(categories)
 
   return (
-    <div className="container mx-auto mb-8 px-10">
+    <div className="container mx-auto mb-8 ">
       <div className="inline-block w-full border-b border-slate-700 py-8">
         <div className="block md:float-left">
           <Link href="/">
